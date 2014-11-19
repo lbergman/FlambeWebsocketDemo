@@ -1,0 +1,14 @@
+{
+  "name": "WebsocketServer",
+  "description": "Testing node websockets",
+  "author": "Andrew <creativedrewy@gmail.com>",
+  "version": "0.0.1",
+  "dependencies": {
+    "ws": "*",
+    "express": "~4.9.x"
+  },
+  "devDependencies": { },
+  "engines": {
+    "node": "0.10.33"
+  }
+}
